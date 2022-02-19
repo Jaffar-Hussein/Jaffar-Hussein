@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on [an 🐜 simulation project](https://github.com/Jaffar-Hussein/Ant_Simulation)
 - 🌱 I’m currently learning :snake:
