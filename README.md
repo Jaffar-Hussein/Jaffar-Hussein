@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on [Neurones of the claustrum ](https://github.com/Jaffar-Hussein/ADEX)
-- 🌱 I’m currently learning :snake:
+- 🌱 I’m currently learning :snake:Brian Framework 
 
 - 📫 How to reach me: jaffar.gura@universite-paris-saclay.fr
 
