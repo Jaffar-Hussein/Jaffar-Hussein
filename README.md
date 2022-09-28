@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [🧠 React ]
+- 🔭 I’m currently working on  React 
 - 🌱 I’m currently learning :snake: [Brian Framework](https://briansimulator.org)
 
 - 📫 How to reach me: jaffar.gura@universite-paris-saclay.fr
