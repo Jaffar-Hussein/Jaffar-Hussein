@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on  React 
-- 🌱 I’m currently learning :snake: [Brian Framework](https://briansimulator.org)
+- 🔭 I’m currently working on  React and Ruby
+- 🌱 I’m currently learning : Ruby
 
 - 📫 How to reach me: jaffar.gura@universite-paris-saclay.fr
 
