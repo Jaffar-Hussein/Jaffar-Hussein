@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on  React and Ruby
-- 🌱 I’m currently learning : Ruby
+- 🔭 I’m currently working on  Benin Infanticide
+- 🌱 I’m currently learning : Scikit-Learn
 
 - 📫 How to reach me: jaffar.gura@universite-paris-saclay.fr
 
