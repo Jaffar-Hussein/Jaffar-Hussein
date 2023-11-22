@@ -1,7 +1,7 @@
 ## Hello, I'm Jaffar 👋
 
 - 🔭 I’m currently working on  Benin Infanticide
-- 🌱 I’m currently learning : Scikit-Learn
+- 🌱 I’m currently learning : R & SQL & C 
 
 - 📫 How to reach me: jaffar.gura@universite-paris-saclay.fr
 
